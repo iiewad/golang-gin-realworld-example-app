@@ -171,6 +171,18 @@
 			"revisionTime": "2017-06-20T10:48:52Z"
 		},
 		{
+			"checksumSHA1": "oCH3J96RWvO8W4xjix47PModpio=",
+			"path": "golang.org/x/crypto/bcrypt",
+			"revision": "057139ce5d2bdbe6fe73c53679e24e9cf007f637",
+			"revisionTime": "2019-01-08T20:51:12Z"
+		},
+		{
+			"checksumSHA1": "oVPHWesOmZ02vLq2fglGvf+AMgk=",
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": "057139ce5d2bdbe6fe73c53679e24e9cf007f637",
+			"revisionTime": "2019-01-08T20:51:12Z"
+		},
+		{
 			"checksumSHA1": "Y+HGqEkYM15ir+J93MEaHdyFy0c=",
 			"path": "golang.org/x/net/context",
 			"revision": "f01ecb60fe3835d80d9a0b7b2bf24b228c89260e",
@@ -207,5 +219,5 @@
 			"revisionTime": "2017-07-12T05:45:46Z"
 		}
 	],
-	"rootPath": "github.com/wangzitian0/golang-gin-starter-kit"
+	"rootPath": "github.com/golang-gin-realworld-example-app"
 }

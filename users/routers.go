@@ -2,7 +2,7 @@ package users
 
 import (
 	"errors"
-	"github.com/wangzitian0/golang-gin-starter-kit/common"
+	"github.com/golang-gin-realworld-example-app/common"
 	"gopkg.in/gin-gonic/gin.v1"
 	"net/http"
 )
